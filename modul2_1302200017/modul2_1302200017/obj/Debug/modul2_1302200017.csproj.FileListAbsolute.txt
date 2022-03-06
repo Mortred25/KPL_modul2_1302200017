@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\bin\Debug\modul2_1302200017.exe.config
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\bin\Debug\modul2_1302200017.exe
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\bin\Debug\modul2_1302200017.pdb
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.Form1.resources
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.Properties.Resources.resources
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.exe
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302200017.pdb
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_130220.Form1.resources
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_1302204014.Form1.resources
+C:\Users\ASUS\source\repos\modul2_1302200017\modul2_1302200017\obj\Debug\modul2_13022200017.Form1.resources
